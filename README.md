@@ -1,4 +1,4 @@
-# watermelon
+# Watermelon
 
 This project is a basic remote irrigation system.
 It is a web app that allows watering a garden remotely, both in manual and automatic mode. 
